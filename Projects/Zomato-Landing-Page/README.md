@@ -15,6 +15,3 @@ A Zomato Landing Page Made using HTML and CSS
 
 
 
-## Author
-
-- [@Unikdahal](https://www.github.com/unikdahal)
